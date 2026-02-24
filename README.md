@@ -2,6 +2,8 @@
 
 **Jotish** is a premium, feature-rich astrology application designed with a stunning celestial aesthetic. It offers users a seamless way to explore astrologers, analyze photo results, and interact with cosmic data through a modern, responsive interface.
 
+Sample img, video-----> /src/img,vid
+
 ---
 
 ## ✨ Key Features
